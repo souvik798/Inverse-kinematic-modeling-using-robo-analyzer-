@@ -62,42 +62,14 @@ RPR ROBOT:
 ![output](4.png)
 ### PLOT 
 
- RPR ROBOT:
- ![output](5.png)
- ![output](6.jpg)
+RPR ROBOT:
+![output](5.png)
+![output](6.jpg)
 
- 3R ROBOT:
+3R ROBOT:
 ![output](7.png)
 ![output](8.jpg)
 
 # result:
 Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
